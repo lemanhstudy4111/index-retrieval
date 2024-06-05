@@ -1,4 +1,8 @@
-# Analysis Questions
+# Indexing and Retrieval
+
+Explore Indexing and Retrieval on a small collection of documents.
+
+## Analysis Questions
 
 1. What is the average length of a story in this collection? What is the shortest story (and how short it is)? What is the longest story (and how longis it)? Note that for this project, "short" and "long" are measured by the number of tokens, not the number of characters.
 
